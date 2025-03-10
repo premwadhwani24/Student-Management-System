@@ -4,18 +4,18 @@ The Student Management System (SMS) is a comprehensive software solution designe
 
 # 📝 Features
 Frontend- HTML, CSS, Java Script, Bootstrap Backend-Python flask (Python 3.7) , SQLAlchemy, 
-•	Operating System: Windows 10
-•	Google Chrome/Internet Explorer
-•	XAMPP (Version-3.7)
-•	Python main editor (user interface): PyCharm Community
-•	workspace editor: Sublime text 3
+*	Operating System: Windows 10
+*Google Chrome/Internet Explorer
+*XAMPP (Version-3.7)
+*Python main editor (user interface): PyCharm Community
+*workspace editor: Sublime text 3
 HARDWARE REQUIREMENTS:  
-•	Computer with a 1.1 GHz or faster processor
-•	 Minimum 2GB of RAM or more
-•	 2.5 GB of available hard-disk space
-•	5400 RPM hard drive
-•	1366 × 768 or higher-resolution display
-•	DVD-ROM drive
+*Computer with a 1.1 GHz or faster processor
+* Minimum 2GB of RAM or more
+* 2.5 GB of available hard-disk space
+* 5400 RPM hard drive
+* 1366 × 768 or higher-resolution display
+* DVD-ROM drive
 
 
 
