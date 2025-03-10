@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block title %}
+Profile
+{% endblock title %}
+
+{% block body %}
+<h3 class="text-center"><span>User Profile</span></h3>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Username: {{ user.username }}</h5>
+                    <p class="card-text">Email: {{ user.email }}</p>
+                    <a href="/edit_profile" class="btn btn-primary">Edit Profile</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock body %}
